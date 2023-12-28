@@ -1,0 +1,4 @@
+repository "Teste Jam@Cronolion@cloud"
+  path "/"
+    br "/main"
+    co "/main"
